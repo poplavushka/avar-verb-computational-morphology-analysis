@@ -1,0 +1,21 @@
+{
+  "experiment": "six-forms",
+  "sample": "sample-593",
+  "cells": [
+    "inf",
+    "prs",
+    "fut",
+    "aor",
+    "cvb.pfv",
+    "vn"
+  ],
+  "n_lexemes": 593,
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "pattern_algorithm": "edits"
+}

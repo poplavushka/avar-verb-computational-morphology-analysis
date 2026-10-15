@@ -1,0 +1,39 @@
+{
+  "n_lexemes": 700,
+  "n_pairs": 15,
+  "patterns_sha256": "26e6c4f4fe580cbd079d3b2d78bb3e4f7b89b9673abd6eb25d5109b2c29c77d2",
+  "microclasses": 21,
+  "macroclasses": 3,
+  "seeds": [
+    {
+      "seed": 1,
+      "micro_partition_sha256": "30c3318aef00054d2dd144023adae9cc5ec8d4da8de33b36f5649bc737d503d2",
+      "macro_partition_sha256": "59bc786f8a5e8baf94d35360b8462d436e77904410753a06dddf05b045a2988a",
+      "mdl_bits": 2633.3088250645405
+    },
+    {
+      "seed": 2,
+      "micro_partition_sha256": "30c3318aef00054d2dd144023adae9cc5ec8d4da8de33b36f5649bc737d503d2",
+      "macro_partition_sha256": "59bc786f8a5e8baf94d35360b8462d436e77904410753a06dddf05b045a2988a",
+      "mdl_bits": 2633.3088250645405
+    },
+    {
+      "seed": 3,
+      "micro_partition_sha256": "30c3318aef00054d2dd144023adae9cc5ec8d4da8de33b36f5649bc737d503d2",
+      "macro_partition_sha256": "59bc786f8a5e8baf94d35360b8462d436e77904410753a06dddf05b045a2988a",
+      "mdl_bits": 2633.3088250645405
+    },
+    {
+      "seed": 4,
+      "micro_partition_sha256": "30c3318aef00054d2dd144023adae9cc5ec8d4da8de33b36f5649bc737d503d2",
+      "macro_partition_sha256": "59bc786f8a5e8baf94d35360b8462d436e77904410753a06dddf05b045a2988a",
+      "mdl_bits": 2633.3088250645405
+    },
+    {
+      "seed": 5,
+      "micro_partition_sha256": "30c3318aef00054d2dd144023adae9cc5ec8d4da8de33b36f5649bc737d503d2",
+      "macro_partition_sha256": "59bc786f8a5e8baf94d35360b8462d436e77904410753a06dddf05b045a2988a",
+      "mdl_bits": 2633.3088250645405
+    }
+  ]
+}

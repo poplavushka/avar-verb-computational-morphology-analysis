@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "models_checked": 8,
+  "mdl_runs_checked": 16,
+  "pattern_records_checked": 53013,
+  "pattern_assignments_match_reference": true,
+  "complete_partitions_match_reference": true,
+  "maximum_mdl_absolute_error": 1.3642420526593924e-12,
+  "tolerance": 1e-08,
+  "patterns_freshly_extracted": true,
+  "dependency_versions": {
+    "qumin": "4.0",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "paralex": "2.3.3"
+  },
+  "python": "3.12.14",
+  "fresh_virtual_environment": true,
+  "isolated_repository_copy": true,
+  "working_directory_outside_repository": true,
+  "pip_check_passed": true
+}

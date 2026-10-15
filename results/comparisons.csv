@@ -1,0 +1,17 @@
+experiment_a,sample_a,experiment_b,sample_b,n_common,microclass_ari,microclass_same_partition,macroclass_ari,macroclass_same_partition
+five-forms-converb,sample-593,five-forms-converb,sample-700,593,1.0,True,1.0,True
+five-forms-converb,sample-593,five-forms-masdar,sample-593,593,0.9990258404272533,False,0.22513888786087896,False
+five-forms-converb,sample-593,four-forms,sample-593,593,0.9990258404272533,False,0.5363653966791605,False
+five-forms-converb,sample-593,six-forms,sample-593,593,1.0,True,0.6004041592068106,False
+five-forms-converb,sample-700,five-forms-masdar,sample-700,700,0.9993099097221989,False,0.2088964476512554,False
+five-forms-converb,sample-700,four-forms,sample-700,700,0.9993099097221989,False,0.5146406315666427,False
+five-forms-converb,sample-700,six-forms,sample-700,700,1.0,True,0.5998425740719838,False
+five-forms-masdar,sample-593,five-forms-masdar,sample-700,593,1.0,True,1.0,True
+five-forms-masdar,sample-593,four-forms,sample-593,593,1.0,True,0.43060438644675897,False
+five-forms-masdar,sample-593,six-forms,sample-593,593,0.9990258404272533,False,0.6929647856403337,False
+five-forms-masdar,sample-700,four-forms,sample-700,700,1.0,True,0.4108452025264004,False
+five-forms-masdar,sample-700,six-forms,sample-700,700,0.9993099097221989,False,0.6925072166466234,False
+four-forms,sample-593,four-forms,sample-700,593,1.0,True,1.0,True
+four-forms,sample-593,six-forms,sample-593,593,0.9990258404272533,False,0.2346522859959927,False
+four-forms,sample-700,six-forms,sample-700,700,0.9993099097221989,False,0.22458737752890282,False
+six-forms,sample-593,six-forms,sample-700,593,1.0,True,1.0,True

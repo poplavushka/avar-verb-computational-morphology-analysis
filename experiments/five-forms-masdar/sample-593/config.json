@@ -1,0 +1,16 @@
+{
+  "experiment": "five-forms-masdar",
+  "sample": "sample-593",
+  "cells": [
+    "inf",
+    "prs",
+    "fut",
+    "aor",
+    "vn"
+  ],
+  "n_lexemes": 593,
+  "seeds": [
+    1
+  ],
+  "pattern_algorithm": "edits"
+}

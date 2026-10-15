@@ -1,0 +1,16 @@
+{
+  "experiment": "five-forms-converb",
+  "sample": "sample-700",
+  "cells": [
+    "inf",
+    "prs",
+    "fut",
+    "aor",
+    "cvb.pfv"
+  ],
+  "n_lexemes": 700,
+  "seeds": [
+    1
+  ],
+  "pattern_algorithm": "edits"
+}

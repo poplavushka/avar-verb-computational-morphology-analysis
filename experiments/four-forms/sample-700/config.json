@@ -1,0 +1,15 @@
+{
+  "experiment": "four-forms",
+  "sample": "sample-700",
+  "cells": [
+    "inf",
+    "prs",
+    "fut",
+    "aor"
+  ],
+  "n_lexemes": 700,
+  "seeds": [
+    1
+  ],
+  "pattern_algorithm": "edits"
+}

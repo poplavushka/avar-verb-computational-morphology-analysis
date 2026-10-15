@@ -1,0 +1,15 @@
+{
+  "n_lexemes": 593,
+  "n_pairs": 6,
+  "patterns_sha256": "7a44b76794e2ff08ff0ecc9d4bb9f0b70c8cb62b4833f3635bd4be14499a49e6",
+  "microclasses": 20,
+  "macroclasses": 3,
+  "seeds": [
+    {
+      "seed": 1,
+      "micro_partition_sha256": "cefb214ba3f2d31c6b6c0531b9213ab74eff936b795fededa0d852846372464c",
+      "macro_partition_sha256": "4aa209f463ee71816b2dca42c1f8a2479a6218064a6bb01ce7da61d1419536ab",
+      "mdl_bits": 1739.3933331934907
+    }
+  ]
+}

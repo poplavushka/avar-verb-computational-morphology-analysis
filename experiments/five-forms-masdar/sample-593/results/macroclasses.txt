@@ -1,0 +1,10 @@
+
+
+avar_00730 (4) 
+	avar_00730, avar_01963, avar_02448, avar_03152
+
+avar_00004 (7) 
+	avar_00004, avar_00015, avar_00025, avar_00385, avar_01328, avar_02469, avar_04062
+
+avar_00021 (9) 
+	avar_00021, avar_01282, avar_01409, avar_01980, avar_02369, avar_03714, avar_03888, avar_04097, avar_04651

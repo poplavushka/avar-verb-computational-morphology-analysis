@@ -1,0 +1,4 @@
+qumin==4.0
+numpy==2.5.4
+pandas==3.0.6
+paralex==2.3.3
